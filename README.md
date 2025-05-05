@@ -1,4 +1,4 @@
-# Zeru-V2
+# Zeru-V2 Methodology Document
 Methodology Document: Compound V2 Wallet Credit Scoring
 Introduction
 The goal of this project was to develop a credit scoring system that assigns a score between 0 and 100 to each wallet interacting with the Compound V2 protocol. The score reflects the reliability and riskiness of wallet behavior based solely on historical transaction data. Higher scores indicate responsible, consistent usage, while lower scores suggest risky, bot-like, or exploitative behavior.
